@@ -1,1 +1,2 @@
-# ComfyUI_Cooldown_Node
+# ComfyUI Cooldown Node
+
